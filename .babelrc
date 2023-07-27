@@ -1,0 +1,9 @@
+{
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+        ["import", {"libraryName": "mand-mobile", "libraryDirectory": "components"}]
+    ]
+}
+  
